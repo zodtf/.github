@@ -1,4 +1,4 @@
-# `Z` `O` `D` `.` **`TF`**  Ventures  
+# `Z` `O` `D` **`TF`**  Ventures  
 The organization responsible for such legendary applications as...  
 
 <br>  
@@ -7,10 +7,14 @@ The organization responsible for such legendary applications as...
 
 ---
 
+<div align="center">
+
 ## PURPOSE
 This organization exists to provide good services. The key is not profit, though the more it can generate, the more time can be spent here. Regardless, our goal -- and indeed _my_ goal, is to **automate stuff!**  
 
-![zod.tf logo](https://i.imgur.com/uXHkJRC.png)  
+<img src="https://camo.githubusercontent.com/efa55b385b3b5ed186a70eac4b7ca3b3ff2dad18a6996381ac2454e1c9b98ed0/68747470733a2f2f692e696d6775722e636f6d2f7558486b4a52432e706e67" alt="zod.tf logo" data-canonical-src="https://i.imgur.com/uXHkJRC.png" style="max-width: 100%;" width=500rem>
+
+</div>
 
 ---
 
@@ -22,7 +26,7 @@ _they're kinda a secret... mostly_
 > & Us means @zudsniper in this context  
 > -- @zudsniper  
 
-### `UPCOMING`  
+### _UPCOMING_  
 
 - ~~[SvS Server](https://svs.zod.tf)~~ -- TF2 'SvS' or 'Sniper vs Sniper' server hosted admined and operated by us. 
 - ~~[Layered Autopricers]()~~ -- not gonna give much detail C:  
@@ -30,7 +34,14 @@ _they're kinda a secret... mostly_
 _other stuff..._  
 
 ---
-![second zod.tf logo](https://i.imgur.com/Q0Iaubd.png)  
-**zodTF Ventures**  
-ALL RIGHTS RESERVED
+
+## CONTRIBUTORS
+- zod ([@zudsniper](https://github.com/zudsniper)) 
+    all functionality so far.
+
+**`ZodTF` Ventures**  
+ALL RIGHTS RESERVED  
+
+<img src="https://camo.githubusercontent.com/944b695290fde86b90f2158175d6b7ae3c8e169b2e829dba5097773f331b91ef/68747470733a2f2f692e696d6775722e636f6d2f513049617562642e706e67" alt="second zod.tf logo" data-canonical-src="https://i.imgur.com/Q0Iaubd.png" style="max-width: 100%;" width=150rem>  
+
 
