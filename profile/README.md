@@ -39,10 +39,10 @@ _other stuff..._
 - zod ([@zudsniper](https://github.com/zudsniper)) 
     all functionality so far.
 
----
+<hr>
 
-**`ZodTF`**  
-ALL RIGHTS RESERVED  
+<i><code>zod.tf</code></i>  
 
-<img src="https://camo.githubusercontent.com/944b695290fde86b90f2158175d6b7ae3c8e169b2e829dba5097773f331b91ef/68747470733a2f2f692e696d6775722e636f6d2f513049617562642e706e67" alt="second zod.tf logo" data-canonical-src="https://i.imgur.com/Q0Iaubd.png" style="max-width: 100%;" width=150rem>  
+> _fullstack development, server administration, web design, branding creation, musical scoring, video editing, and idk another thing_   
 
+<a href="https://zod.tf/"><img src="https://user-images.githubusercontent.com/16076573/222953031-03f44756-03bf-46b9-b66e-98d50dc013fc.png" alt="second zod.tf logo" width="150rem" style="max-width: 100%;"></a>
