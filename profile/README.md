@@ -1,4 +1,4 @@
-# `Z` `O` `D` **`TF`**  Ventures  
+# `Z` `O` `D` **`TF`** Servers  
 The organization responsible for such legendary applications as...  
 
 <br>  
@@ -41,7 +41,7 @@ _other stuff..._
 
 ---
 
-**`ZodTF` Ventures**  
+**`ZodTF`**  
 ALL RIGHTS RESERVED  
 
 <img src="https://camo.githubusercontent.com/944b695290fde86b90f2158175d6b7ae3c8e169b2e829dba5097773f331b91ef/68747470733a2f2f692e696d6775722e636f6d2f513049617562642e706e67" alt="second zod.tf logo" data-canonical-src="https://i.imgur.com/Q0Iaubd.png" style="max-width: 100%;" width=150rem>  
