@@ -41,7 +41,9 @@ _other stuff..._
 
 <hr>
 
-<i><code>zod.tf</code></i>  
+<i><code>zod.tf</code></i> 
+
+[![Discord](https://img.shields.io/discord/974855479975100487?label=tf2%20discord)](https://discord.gg/zodtf)  ![GitHub issue custom search](https://img.shields.io/github/issues-search?color=114444&label=issues&query=involves%3Azudsniper)  ![GitHub followers](https://img.shields.io/github/followers/zudsniper?style=social)  
 
 > _fullstack development, server administration, web design, branding creation, musical scoring, video editing, and idk another thing_   
 
