@@ -19,7 +19,7 @@ The organization is for you guys! If you can see this, I want to collaborate you
 
 <div align="center">
 
-### $PURPOSE$
+### PURPOSE
 This organization exists to provide good services. The key is not profit, though the more it can generate, the more time can be spent here. Regardless, our goal -- and indeed _my_ goal, is to **automate.**  
 
 <a href="https://zod.tf/"><img src="https://github.com/zudsniper/zudsniper/assets/16076573/0b2203d4-2e8f-44d9-ac9c-2b5097d1f961" alt="zod.tf logo" width="400rem" style="max-width: 100%;"></a> 
@@ -40,10 +40,11 @@ This organization exists to provide good services. The key is not profit, though
 ### CURRENT
 
 - [MGE Servers](https://mge.zod.tf/) -- TF2 'MGE' mod servers hosted administrated and operated by me.  
-    - `chillypunch`
-    - `trainingv8`
-    - `oihguv_sucks`
-    - `triumph` <sup> ⭐ this is the only North American server running this map! Thanks [Shigbeard!](https://triumphtf2.com) C: </sup>
+    - `chillypunch` (`zod.mge.tf`)
+    - `trainingv8` (`zod.mge.tf:27016`)
+    - ~~`oihguv_sucks`~~ _(currently down)_
+    - `triumph` (`zod.mge.tf:27018`) 
+    <sup> ⭐ this is the only North American server running this map! Thanks [Shigbeard!](https://triumphtf2.com) C: </sup> 
 - ~~[SvS Server](https://svs.zod.tf) -- TF2 'SvS' or 'Sniper vs Sniper' server hosted admined and operated by me.~~ 
 
 ### _UPCOMING_  
@@ -65,7 +66,7 @@ This organization exists to provide good services. The key is not profit, though
 
 <b><a target="_blank" href="https://gh.zod.tf"><code>zod.tf</code></a></b> 
 
-[💬 Discord](https://discord.gg/zodtf) 
+[💬 Discord](https://discord.zod.tf) 
 
 > _fullstack development, server administration, web design, branding creation, musical composition & performance, video editing, and more probably_   
 
